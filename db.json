@@ -1,143 +1,142 @@
-
+[
   {
-    id: 1,
-    title: "Wireless Headphones",
-    description: "Noise cancelling, 40 hours battery life",
-    price: 129.99,
-    currency: "USD",
-    category: "electronics",
-    inStock: true,
-    rating: 4.6,
-    images: [
+    "id": 1,
+    "title": "Wireless Headphones",
+    "description": "Noise cancelling, 40 hours battery life",
+    "price": 129.99,
+    "currency": "USD",
+    "category": "electronics",
+    "inStock": true,
+    "rating": 4.6,
+    "images": [
       "https://dummyimage.com/600x600/000/fff&text=Headphones"
     ],
-    createdAt: "2025-01-10T09:30:00Z"
+    "createdAt": "2025-01-10T09:30:00Z"
   },
   {
-    id: 2,
-    title: "Smart Watch",
-    description: "Heart rate monitor, GPS, waterproof",
-    price: 199.0,
-    currency: "USD",
-    category: "electronics",
-    inStock: true,
-    rating: 4.5,
-    images: [
+    "id": 2,
+    "title": "Smart Watch",
+    "description": "Heart rate monitor, GPS, waterproof",
+    "price": 199.0,
+    "currency": "USD",
+    "category": "electronics",
+    "inStock": true,
+    "rating": 4.5,
+    "images": [
       "https://dummyimage.com/600x600/222/fff&text=Smart+Watch"
     ],
-    createdAt: "2025-01-09T11:20:00Z"
+    "createdAt": "2025-01-09T11:20:00Z"
   },
   {
-    id: 3,
-    title: "Running Shoes",
-    description: "Lightweight shoes for daily running",
-    price: 89.5,
-    currency: "USD",
-    category: "sports",
-    inStock: false,
-    rating: 4.3,
-    images: [
+    "id": 3,
+    "title": "Running Shoes",
+    "description": "Lightweight shoes for daily running",
+    "price": 89.5,
+    "currency": "USD",
+    "category": "sports",
+    "inStock": false,
+    "rating": 4.3,
+    "images": [
       "https://dummyimage.com/600x600/444/fff&text=Running+Shoes"
     ],
-    createdAt: "2025-01-08T14:15:00Z"
+    "createdAt": "2025-01-08T14:15:00Z"
   },
   {
-    id: 4,
-    title: "Backpack",
-    description: "Water-resistant backpack, 25L",
-    price: 49.99,
-    currency: "USD",
-    category: "fashion",
-    inStock: true,
-    rating: 4.2,
-    images: [
+    "id": 4,
+    "title": "Backpack",
+    "description": "Water-resistant backpack, 25L",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "fashion",
+    "inStock": true,
+    "rating": 4.2,
+    "images": [
       "https://dummyimage.com/600x600/555/fff&text=Backpack"
     ],
-    createdAt: "2025-01-07T10:00:00Z"
+    "createdAt": "2025-01-07T10:00:00Z"
   },
   {
-    id: 5,
-    title: "Coffee Maker",
-    description: "Automatic drip coffee maker, 1.5L",
-    price: 59.99,
-    currency: "USD",
-    category: "home",
-    inStock: true,
-    rating: 4.1,
-    images: [
+    "id": 5,
+    "title": "Coffee Maker",
+    "description": "Automatic drip coffee maker, 1.5L",
+    "price": 59.99,
+    "currency": "USD",
+    "category": "home",
+    "inStock": true,
+    "rating": 4.1,
+    "images": [
       "https://dummyimage.com/600x600/333/fff&text=Coffee+Maker"
     ],
-    createdAt: "2025-01-06T08:00:00Z"
+    "createdAt": "2025-01-06T08:00:00Z"
   },
   {
-    id: 6,
-    title: "Office Chair",
-    description: "Ergonomic chair with lumbar support",
-    price: 149.99,
-    currency: "USD",
-    category: "furniture",
-    inStock: false,
-    rating: 4.4,
-    images: [
+    "id": 6,
+    "title": "Office Chair",
+    "description": "Ergonomic chair with lumbar support",
+    "price": 149.99,
+    "currency": "USD",
+    "category": "furniture",
+    "inStock": false,
+    "rating": 4.4,
+    "images": [
       "https://dummyimage.com/600x600/111/fff&text=Office+Chair"
     ],
-    createdAt: "2025-01-05T13:45:00Z"
+    "createdAt": "2025-01-05T13:45:00Z"
   },
   {
-    id: 7,
-    title: "Bluetooth Speaker",
-    description: "Portable speaker with deep bass",
-    price: 39.99,
-    currency: "USD",
-    category: "electronics",
-    inStock: true,
-    rating: 4.0,
-    images: [
+    "id": 7,
+    "title": "Bluetooth Speaker",
+    "description": "Portable speaker with deep bass",
+    "price": 39.99,
+    "currency": "USD",
+    "category": "electronics",
+    "inStock": true,
+    "rating": 4.0,
+    "images": [
       "https://dummyimage.com/600x600/666/fff&text=Speaker"
     ],
-    createdAt: "2025-01-04T16:30:00Z"
+    "createdAt": "2025-01-04T16:30:00Z"
   },
   {
-    id: 8,
-    title: "Yoga Mat",
-    description: "Non-slip yoga mat, eco-friendly material",
-    price: 24.99,
-    currency: "USD",
-    category: "sports",
-    inStock: true,
-    rating: 4.7,
-    images: [
+    "id": 8,
+    "title": "Yoga Mat",
+    "description": "Non-slip yoga mat, eco-friendly material",
+    "price": 24.99,
+    "currency": "USD",
+    "category": "sports",
+    "inStock": true,
+    "rating": 4.7,
+    "images": [
       "https://dummyimage.com/600x600/228b22/fff&text=Yoga+Mat"
     ],
-    createdAt: "2025-01-03T09:10:00Z"
+    "createdAt": "2025-01-03T09:10:00Z"
   },
   {
-    id: 9,
-    title: "Desk Lamp",
-    description: "LED desk lamp with brightness control",
-    price: 29.99,
-    currency: "USD",
-    category: "home",
-    inStock: true,
-    rating: 4.2,
-    images: [
+    "id": 9,
+    "title": "Desk Lamp",
+    "description": "LED desk lamp with brightness control",
+    "price": 29.99,
+    "currency": "USD",
+    "category": "home",
+    "inStock": true,
+    "rating": 4.2,
+    "images": [
       "https://dummyimage.com/600x600/999/fff&text=Desk+Lamp"
     ],
-    createdAt: "2025-01-02T18:00:00Z"
+    "createdAt": "2025-01-02T18:00:00Z"
   },
   {
-    id: 10,
-    title: "Gaming Mouse",
-    description: "High precision gaming mouse, RGB",
-    price: 59.0,
-    currency: "USD",
-    category: "electronics",
-    inStock: false,
-    rating: 4.5,
-    images: [
+    "id": 10,
+    "title": "Gaming Mouse",
+    "description": "High precision gaming mouse, RGB",
+    "price": 59.0,
+    "currency": "USD",
+    "category": "electronics",
+    "inStock": false,
+    "rating": 4.5,
+    "images": [
       "https://dummyimage.com/600x600/ff0000/fff&text=Gaming+Mouse"
     ],
-    createdAt: "2025-01-01T12:00:00Z"
+    "createdAt": "2025-01-01T12:00:00Z"
   }
-
-
+]
