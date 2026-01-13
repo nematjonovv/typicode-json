@@ -1,5 +1,5 @@
 [
-  {
+  "posts": [{
     "id": 1,
     "title": "Wireless Headphones",
     "description": "Noise cancelling, 40 hours battery life",
@@ -138,5 +138,5 @@
       "https://dummyimage.com/600x600/ff0000/fff&text=Gaming+Mouse"
     ],
     "createdAt": "2025-01-01T12:00:00Z"
-  }
+  }]
 ]
